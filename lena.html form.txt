@@ -1,0 +1,27 @@
+<DOCTYPE!>
+<html>
+<head>EMPLOYEE REGISTRATION FORM</head>
+<form>
+<body>
+<h1><input>first name</input></h1>
+<h2><input>middle name</input></h2>
+<h3><input>last name</input></h3>
+<h4><input>mail address 1</input></h4>
+<h5><input>mail address 2</input></h5>
+<h6><input>city</input></h6>
+<h7><input>state</input></h7>
+<h8><input>zip</input></h8>
+<h9><input>upload a photo</input></h9>
+<h10><input>E-mail</input></h10>
+<h11><input>mobile</input></h11>
+<h12><input>languages known></input></h12>
+<th>Gujarati></th>
+<th>Hindi</th>
+<th>English</th>
+<th>Marathi</th>
+<h13>Additional Information</h13>
+<input>optional</input>
+<button type="submit">submit</button>
+</form>
+</body>
+</html>
